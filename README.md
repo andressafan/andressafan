@@ -3,10 +3,10 @@
 <h3 align="center">Estudante de programação</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andressafan&label=Profile%20views&color=0e75b6&style=flat" alt="andressafan" /> </p>
  
-<h4> Cursos e Formações </h4>
- - Análise e desenvolvimento de Sistemas - UEMA (2024 - Atual)
- - Técnico em Desenvolvimento de Sistemas - IFPI (Concluído)
- - Programador Full Stack - SENAI (2023 - Atual)
+<h3> Cursos e Formações </h3>
+- Análise e desenvolvimento de Sistemas - UEMA (2024 - Atual)
+- Técnico em Desenvolvimento de Sistemas - IFPI (Concluído)
+- Programador Full Stack - SENAI (2023 - Atual)
   
 
 <h3 align="left">Linguagens e ferramentas:</h3>
