@@ -1,16 +1,14 @@
 
 <h1 align="center">Oi 👋, Sou Andressa</h1>
 <h3 align="center">Estudante de programação</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andressafan&label=Profile%20views&color=0e75b6&style=flat" alt="andressafan" /> </p>
  
 - Cursos e Formações
 - Análise e desenvolvimento de Sistemas - UEMA (2024 - Atual)
 - Técnico em Desenvolvimento de Sistemas - IFPI (Concluído)
 - Programador Full Stack - SENAI (2023 - Atual)
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andressafan&label=Profile%20views&color=0e75b6&style=flat" alt="andressafan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andressafan" alt="andressafan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
