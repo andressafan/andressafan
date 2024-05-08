@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+##Cursos e Formações
+Análise e desenvolvimento de Sistemas - UEMA (2024 - Atual)
+Técnico em Desenvolvimento de Sistemas - IFPI (Concluído)
+Programador Full Stack - SENAI (2023 - Atual)
 <!--
 **andressafan/andressafan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
