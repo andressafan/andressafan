@@ -7,7 +7,7 @@
 
 - Análise e desenvolvimento de Sistemas - UEMA (2024 - Atual)
 - Técnico em Desenvolvimento de Sistemas - IFPI (Concluído)
-- Programador Full Stack - SENAI (2023 - Atual)
+- Programador Full Stack - SENAI (Concluído)
   
 
 <h3 align="left">Linguagens e ferramentas:</h3>
