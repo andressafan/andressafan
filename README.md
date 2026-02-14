@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, eu sou a Andressa</h1>
+<h1 align="center">Oi 👋, eu sou Andressa</h1>
 <h3 align="center">Estudante de Programação | Desenvolvedora em formação 🚀</h3>
 
 <p align="center">
