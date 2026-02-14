@@ -72,3 +72,8 @@
 <p align="center">
   ✨ <em>“Aprender todos os dias é o que transforma curiosidade em habilidade.”</em>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andressafan/andressafan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andressafan/andressafan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andressafan/andressafan/output/github-contribution-grid-snake.svg">
+</picture>
